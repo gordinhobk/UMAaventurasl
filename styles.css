@@ -1,0 +1,11 @@
+body{
+    background-color: white rgb(255, 255, 255);
+    color: black rgb(0, 0, 0, 0, 952);
+    font-family: "Nerko One", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
